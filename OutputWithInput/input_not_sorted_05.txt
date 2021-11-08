@@ -1,0 +1,8 @@
+Container is store 7 plants:
+Tree: name = Android, year = 30, task = 0.2857142857142857
+Shrub: name = Dron, type = FEBRUARY, task = 0.25
+Flower: name = Andruha, type = WILD, task = 0.2857142857142857
+Tree: name = Drin, year = 987467, task = 0.25
+Shrub: name = Andreyka, type = JUNE, task = 0.375
+Flower: name = Andruhon, type = DOMESTIC, task = 0.25
+Flower: name = SinonimiKonchilis, type = GARDEN, task = 0.4117647058823529

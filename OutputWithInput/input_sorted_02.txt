@@ -1,0 +1,2 @@
+Sorted 1 plants:
+Tree: name = Dub, year = 100, task = 0.3333333333333333

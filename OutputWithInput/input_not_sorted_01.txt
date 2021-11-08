@@ -1,0 +1,2 @@
+Container is store 1 plants:
+Flower: name = Lol, type = WILD, task = 0.3333333333333333

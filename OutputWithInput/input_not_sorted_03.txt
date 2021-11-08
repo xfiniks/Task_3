@@ -1,0 +1,4 @@
+Container is store 3 plants:
+Tree: name = Android, year = 3000, task = 0.2857142857142857
+Shrub: name = Dron, type = FEBRUARY, task = 0.25
+Flower: name = Andruha, type = WILD, task = 0.2857142857142857

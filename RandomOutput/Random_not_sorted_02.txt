@@ -1,0 +1,11 @@
+Container is store 10 plants:
+Flower: name = rquxvrijgryuopz, type = Garden, task = 0.3333333333333333
+Tree: name = qicclykbaaipcmd, year = 1206, task = 0.3333333333333333
+Tree: name = lseipmbwongsbnp, year = 1885, task = 0.2
+Flower: name = jzpwcwalwwisdoa, type = Wild, task = 0.26666666666666666
+Flower: name = ppdlasyzfrjrvzd, type = Wild, task = 0.13333333333333333
+Shrub: name = bstsmfmijunjqlp, type = March, task = 0.13333333333333333
+Shrub: name = quzaojlsgubkqfu, type = September, task = 0.3333333333333333
+Flower: name = knhphvmtgsanmhr, type = Wild, task = 0.06666666666666667
+Flower: name = mutxepcyuihinpe, type = Wild, task = 0.4666666666666667
+Flower: name = urrhvocvcdkarsc, type = Garden, task = 0.2

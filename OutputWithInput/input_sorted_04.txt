@@ -1,0 +1,7 @@
+Sorted 6 plants:
+Tree: name = Drin, year = 987467, task = 0.25
+Shrub: name = Dron, type = FEBRUARY, task = 0.25
+Flower: name = Andruhon, type = DOMESTIC, task = 0.25
+Tree: name = Android, year = 30, task = 0.2857142857142857
+Flower: name = Andruha, type = WILD, task = 0.2857142857142857
+Shrub: name = Andreyka, type = JUNE, task = 0.375

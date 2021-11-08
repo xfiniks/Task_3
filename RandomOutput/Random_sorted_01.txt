@@ -1,0 +1,2 @@
+Sorted 1 plants:
+Flower: name = dgcjozwkulwcqsb, type = Domestic, task = 0.13333333333333333
